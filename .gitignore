@@ -16,3 +16,4 @@ src/BladeTester/CalendarBundle/Tests/App/logs
 
 # Editors
 *.swp
+.idea/
